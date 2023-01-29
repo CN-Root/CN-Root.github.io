@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+  <!---程序最新版本号-->
+  <!--上一个版本：10.0.19041.1806  发布日期：2022/10/25 23:54-->
+  <zuixinbanben>10.1.15.1836</zuixinbanben>
+  
+  <!---程序是否可用 OK为可用-->
+  <zhuangtai>OK</zhuangtai>
+  
+  <!--是否允许访问URL和访问的URL地址-->
+  <url_state>OK1</url_state>
+  <url>https://laiyue.me</url>
+  
+  <!--计算机白名单=CPU+MAC+DISK-->
+  <white>
+      CPU=BFEBFBFF000806EA+MAC=18:31:BF:71:43:A5+DISK=EJ7CN50681130CC4O
+  </white>
+</root>
